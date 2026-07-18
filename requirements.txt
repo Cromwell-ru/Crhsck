@@ -4,3 +4,4 @@ aiohttp
 art
 random
 disnake
+aiolimiter
